@@ -1,4 +1,5 @@
-# Farma
+# AGRI_FRIEND
+
 A web app which is capable of predicting the CROP YIELD and DETECT THE PESTS IN THE FIELD using NEURAL NETWORKS AND MACHINE LEARNING ALGORITHMS
 This project also has an PEST CONTROL SYSTEM -it detects the pests in the field and ALERT the owner (by giving a call)
 
